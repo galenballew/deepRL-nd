@@ -29,7 +29,6 @@ Install these packages using `pip` or your favorite package manager:
 - unityagents
 - numpy
 - torch**
-- torchvision**
 - matplotlib (optional)
 
 ** It's highly recommended to visit [PyTorch.org](https://pytorch.org/) for instructions on installing PyTorch
@@ -48,6 +47,6 @@ Install these packages using `pip` or your favorite package manager:
 
 2. Clone this repo and place the unzipped environment folder into the repo.
 
-3. Launch `DQN_Navigation.ipynb` via `$ jupyter` and step through the code cells.
+3. Launch `Unity_DQN.ipynb` via `$ jupyter` and step through the code cells.
 
 
